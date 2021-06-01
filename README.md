@@ -4,8 +4,13 @@
  
 #-------Instalation
 1.)Download a plugin of your choice.(AntiHack.jar from arhive)
+
 2.)Place the . jar and any other files in your plugins directory.
+
 3.)Run the server and wait for it to fully load.
+
 4.)Type stop in your Minecraft server console to bring the server to a clean stop.
+
 5.)Run the server.
+
 6.)All done!
